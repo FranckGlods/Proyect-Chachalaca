@@ -2,6 +2,11 @@
 #include <conio.h>
 #include <string.h>
 //Hola Proyecto de optimizaión
+//No apto para USM
+//Derechos reservados S.A.D.C.V
+//Universidad Aútonoma de Aguascalientes
+//Centro de Educación Media
+//Ingeniería en Computación Inteligente
 
 using namespace std;
 
